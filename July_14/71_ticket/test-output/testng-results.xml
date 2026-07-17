@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-16T12:04:13 IST" name="Default suite" finished-at="2026-07-16T12:06:54 IST" duration-ms="161220">
+    <groups>
+    </groups>
+    <test started-at="2026-07-16T12:04:13 IST" name="Default test" finished-at="2026-07-16T12:06:54 IST" duration-ms="161220">
+      <class name="com.NavigationMethods.Demo.Tagnamedemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.NavigationMethods.Demo.Tagnamedemo@368f2016]" started-at="2026-07-16T12:04:13 IST" name="setUp" finished-at="2026-07-16T12:06:12 IST" duration-ms="118805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="linkTest()[pri:0, instance:com.NavigationMethods.Demo.Tagnamedemo@368f2016]" started-at="2026-07-16T12:06:12 IST" name="linkTest" finished-at="2026-07-16T12:06:54 IST" duration-ms="42369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTest -->
+      </class> <!-- com.NavigationMethods.Demo.Tagnamedemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
